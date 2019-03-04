@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">docdemo</string>
+    <string name="referal_id_provided_by_the_doctor">Referal id Provided by the Doctor</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="dont_have_an_account_signup">Dont have an account? SignUp</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+</resources>
